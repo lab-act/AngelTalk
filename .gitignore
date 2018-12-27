@@ -4,7 +4,11 @@ gen/
 .gradle/
 build/
 captures/
-
+caches/
+daemon/
+native/
+wrapper/
+app/java_pid*.hprof
 
 local.properties
 
